@@ -1,0 +1,16 @@
+{
+  "systemStatus": true,
+  "validTill": 1717163880,
+  "localisations": {
+    "en": {
+      "title": "Something Wrong",
+      "text": "Try again later",
+      "tooltipText": "Funds are safe"
+    },
+    "es": {
+      "title": "Something Wrong ES",
+      "text": "Try again later ES",
+      "tooltipText": "Funds are safe"
+    }
+  }
+}
