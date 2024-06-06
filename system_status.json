@@ -1,6 +1,6 @@
 {
-  "systemStatus": true,
-  "validTill": 1717163880,
+  "systemStatus": false,
+  "validTill": 1717756200,
   "localisations": {
     "en": {
       "title": "We are performing maintenance work",
