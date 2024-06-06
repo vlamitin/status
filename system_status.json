@@ -3,14 +3,14 @@
   "validTill": 1717163880,
   "localisations": {
     "en": {
-      "title": "Something Wrong",
-      "text": "Try again later",
-      "tooltipText": "Funds are very safe"
+      "title": "We are performing maintenance work",
+      "text": "Access to the application will be available after its completion",
+      "tooltipText": "Your funds are secure"
     },
     "es": {
-      "title": "Something Wrong ES",
-      "text": "Try again later ES",
-      "tooltipText": "Funds are safe"
+      "title": "Estamos realizando trabajos de mantenimiento",
+      "text": "El acceso a la aplicación estará disponible tras su finalización",
+      "tooltipText": "Sus fondos están seguros"
     }
   }
 }
