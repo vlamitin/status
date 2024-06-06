@@ -1,0 +1,6 @@
+{
+  "pollInterval": {
+    "seconds": "60"
+  },
+  "activeIncidents": []
+}
