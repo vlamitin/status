@@ -1,0 +1,31 @@
+{
+  "pollInterval": {
+    "seconds": "60"
+  },
+  "activeIncidents": [{
+    "id": {
+      "value": "ded6c8d9-da73-478a-9729-711c6adc0899"
+    },
+    "severity": "INCIDENT_SEVERITY_CRITICAL",
+    "popups": [{
+      "location": "INCIDENT_LOCATION_BAF",
+      "localisations": {
+        "en": {
+          "title": "Some Great Title BAF",
+          "text": "Some Great Text BAF"
+        },
+        "es": {
+          "title": "Some Great ES Title BAF",
+          "text": "Some Great ES Text BAF"
+        }
+      },
+      "defaultLocalisation": {
+        "title": "Some Great Title BAF",
+        "text": "Some Great Text BAF"
+      }
+    }],
+    "disabledFeatures": [{
+      "name": "AUTH"
+    }]
+  }]
+}
